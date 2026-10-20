@@ -1,4 +1,15 @@
+
+# Python virtual environment
 venv/
-.ipynb_checkpoints/
+.venv/
+
+# Python cache and temporary files
 __pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS files
 .DS_Store
+
+# Local prediction database
+predictions.db
