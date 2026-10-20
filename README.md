@@ -1,3 +1,4 @@
+**Live Demo:** [Open Student Performance Predictor](https://student-performance-predictor-ml-9djcft3hbqkhxanhgtagy3.streamlit.app)
 
 # Student Performance Predictor
 
