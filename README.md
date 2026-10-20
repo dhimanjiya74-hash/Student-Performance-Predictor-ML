@@ -10,7 +10,7 @@ Kaggle "Student Performance Factors": 6,607 student records, 20 columns. Target:
 |---|---|
 | Data cleaning (01_data_cleaning.ipynb) | Done |
 | Exploratory data analysis (02_eda.ipynb) | Done |
-| Model training and evaluation | Next |
+| Model training and evaluation (03_model_training.ipynb) | Done |
 | Web application | Upcoming |
 | Dashboard | Upcoming |
 
